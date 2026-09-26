@@ -1,0 +1,33 @@
+{
+  "nota": "Datos PROVISORIOS para desarrollo. Se activan con BQ_MOCK=true en .env. Editar libremente este archivo; la app los vuelve a leer en cada request (o con ?refresh=true).",
+  "productos": [
+    {
+      "producto_id": "PROD-001",
+      "nombre_producto": "Bolsa 30x40 Polietileno",
+      "fecha_vigencia": "2026-09-01T00:00:00Z",
+      "items": [
+        { "codigo_mp": "MP-001", "nombre_mp": "Polietileno HD", "cantidad": 0.032 },
+        { "codigo_mp": "MP-002", "nombre_mp": "Pigmento Negro", "cantidad": 0.0015 },
+        { "codigo_mp": "MP-003", "nombre_mp": "Tinta Flexografica", "cantidad": 0.001 }
+      ]
+    },
+    {
+      "producto_id": "PROD-002",
+      "nombre_producto": "Film Stretch 50cm",
+      "fecha_vigencia": "2026-09-01T00:00:00Z",
+      "items": [
+        { "codigo_mp": "MP-004", "nombre_mp": "Polietileno LD", "cantidad": 0.045 },
+        { "codigo_mp": "MP-005", "nombre_mp": "Masterbatch Blanco", "cantidad": 0.002 }
+      ]
+    },
+    {
+      "producto_id": "PROD-003",
+      "nombre_producto": "Envase Rigido 500ml",
+      "fecha_vigencia": "2026-09-01T00:00:00Z",
+      "items": [
+        { "codigo_mp": "MP-006", "nombre_mp": "Resina PET", "cantidad": 0.045 },
+        { "codigo_mp": "MP-002", "nombre_mp": "Pigmento Negro", "cantidad": 0.001 }
+      ]
+    }
+  ]
+}

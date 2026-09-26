@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cotizador de Productos - Guardadas</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="bg-gray-100 min-h-screen">
+    <header class="bg-blue-700 text-white p-4 shadow">
+      <div class="max-w-6xl mx-auto flex items-center justify-between">
+        <h1 class="text-xl font-bold">Cotizador de Productos</h1>
+        <nav class="flex gap-4 text-sm">
+          <a href="index.html" class="px-3 py-1 rounded hover:bg-blue-800">Materias Primas</a>
+          <a href="precios.html" class="px-3 py-1 rounded hover:bg-blue-800">Precios</a>
+          <a href="cotizacion.html" class="px-3 py-1 rounded hover:bg-blue-800">Cotización</a>
+          <a href="cotizaciones.html" class="px-3 py-1 rounded hover:bg-blue-900">Guardadas</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="max-w-6xl mx-auto p-4 space-y-6">
+      <section class="bg-white rounded-lg shadow p-6">
+        <div class="flex flex-wrap items-end justify-between gap-3 mb-4">
+          <div>
+            <h2 class="text-lg font-semibold text-gray-800">Cotizaciones guardadas</h2>
+            <p id="guardadas-count" class="text-sm text-gray-500"></p>
+          </div>
+          <form id="form-filtro" class="flex flex-wrap items-end gap-3">
+            <div>
+              <label for="filtro-buscar" class="block text-sm font-medium text-gray-700 mb-1">Buscar</label>
+              <input
+                type="text"
+                id="filtro-buscar"
+                placeholder="producto o cliente"
+                class="w-52 border border-gray-300 rounded-lg px-3 py-2 focus:ring-2 focus:ring-blue-500 focus:outline-none"
+              />
+            </div>
+            <button
+              type="submit"
+              class="bg-blue-600 hover:bg-blue-700 text-white font-medium px-5 py-2 rounded-lg"
+            >
+              Filtrar
+            </button>
+          </form>
+        </div>
+        <div class="overflow-x-auto">
+          <table class="min-w-full text-sm divide-y divide-gray-200">
+            <thead class="bg-gray-50 text-left text-xs uppercase text-gray-500">
+              <tr>
+                <th class="px-4 py-3 font-medium">Fecha</th>
+                <th class="px-4 py-3 font-medium">Producto</th>
+                <th class="px-4 py-3 font-medium">Cliente</th>
+                <th class="px-4 py-3 font-medium text-right">Precio Final</th>
+                <th class="px-4 py-3 font-medium text-right">Precio Bonificado</th>
+                <th class="px-4 py-3 font-medium text-right">Acciones</th>
+              </tr>
+            </thead>
+            <tbody id="tabla-guardadas" class="divide-y divide-gray-100"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <!-- Modal: detalle de cotización -->
+    <div id="modal-detalle" class="fixed inset-0 z-10 hidden items-center justify-center bg-black/40 p-4">
+      <div class="bg-white rounded-lg shadow-xl w-full max-w-3xl max-h-[90vh] flex flex-col">
+        <div class="flex items-center justify-between p-4 border-b">
+          <h3 id="modal-detalle-titulo" class="text-lg font-semibold text-gray-800">Detalle de cotización</h3>
+          <button id="modal-detalle-cerrar" class="text-gray-400 hover:text-gray-600 text-xl leading-none">&times;</button>
+        </div>
+        <div class="p-4 overflow-y-auto space-y-4">
+          <div id="modal-detalle-resumen" class="grid grid-cols-2 md:grid-cols-4 gap-3"></div>
+          <div>
+            <h4 class="text-sm font-semibold text-gray-700 mb-2">Materias primas de la receta</h4>
+            <div class="overflow-x-auto">
+              <table class="min-w-full text-sm divide-y divide-gray-200">
+                <thead class="bg-gray-50 text-left text-xs uppercase text-gray-500">
+                  <tr>
+                    <th class="px-4 py-2 font-medium">MP</th>
+                    <th class="px-4 py-2 font-medium text-right">Cantidad</th>
+                    <th class="px-4 py-2 font-medium text-right">Precio unit.</th>
+                    <th class="px-4 py-2 font-medium text-right">Subtotal</th>
+                    <th class="px-4 py-2 font-medium">Cobrado</th>
+                  </tr>
+                </thead>
+                <tbody id="modal-detalle-items" class="divide-y divide-gray-100"></tbody>
+              </table>
+            </div>
+          </div>
+          <div>
+            <h4 class="text-sm font-semibold text-gray-700 mb-2">Historial de precios del producto</h4>
+            <div id="modal-detalle-historial" class="space-y-1"></div>
+          </div>
+        </div>
+        <div class="p-4 border-t flex justify-end gap-2">
+          <button
+            id="btn-exportar-csv"
+            class="bg-gray-200 hover:bg-gray-300 text-gray-700 font-medium px-5 py-2 rounded-lg"
+          >
+            Exportar CSV
+          </button>
+          <button
+            id="btn-cerrar-detalle"
+            class="bg-blue-600 hover:bg-blue-700 text-white font-medium px-5 py-2 rounded-lg"
+          >
+            Cerrar
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <div id="toast" class="fixed bottom-4 right-4 hidden px-4 py-3 rounded-lg shadow-lg text-white text-sm"></div>
+
+    <script src="cotizaciones.js"></script>
+  </body>
+</html>

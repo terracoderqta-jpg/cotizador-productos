@@ -1,0 +1,35 @@
+{
+  "name": "cotizador-productos",
+  "version": "1.0.0",
+  "description": "Aplicación web para calcular precios de venta de productos cruzando BOM (BigQuery) con precios de materias primas (PostgreSQL).",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "seed": "node database/seed.js",
+    "db:start": ".\\node_modules\\@embedded-postgres\\windows-x64\\native\\bin\\pg_ctl.exe -D pgdata -l pgdata.log start",
+    "db:stop": ".\\node_modules\\@embedded-postgres\\windows-x64\\native\\bin\\pg_ctl.exe -D pgdata stop"
+  },
+  "keywords": [
+    "cotizador",
+    "bom",
+    "pricing",
+    "bigquery",
+    "postgresql",
+    "express"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/bigquery": "^7.9.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "embedded-postgres": "^18.4.0-beta.17",
+    "express": "^4.21.2",
+    "mysql2": "^3.24.4",
+    "pg": "^8.13.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

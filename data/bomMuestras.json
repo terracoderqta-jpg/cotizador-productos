@@ -1,0 +1,2138 @@
+{
+  "nota": "Generado desde jvp 2026 08.csv. Receta V1 (variante con mas tareas), cantidad = promedio Valor Captura / total real por tarea (kg por kg).",
+  "productos": [
+    {
+      "producto_id": "01-006",
+      "nombre_producto": "TORO SERVICIO....",
+      "fecha_vigencia": "2026-08-06T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.461153
+        },
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.243523
+        },
+        {
+          "codigo_mp": "7",
+          "nombre_mp": "CASCARA ARROZ",
+          "cantidad": 0.151293
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.056325
+        },
+        {
+          "codigo_mp": "8",
+          "nombre_mp": "AFRECHO ARROZ",
+          "cantidad": 0.049325
+        },
+        {
+          "codigo_mp": "154",
+          "nombre_mp": "CARBONATO DE CALCIO",
+          "cantidad": 0.028567
+        },
+        {
+          "codigo_mp": "11",
+          "nombre_mp": "SAL",
+          "cantidad": 0.007578
+        },
+        {
+          "codigo_mp": "263",
+          "nombre_mp": "SUPLEFEED23",
+          "cantidad": 0.002237
+        }
+      ]
+    },
+    {
+      "producto_id": "01-026",
+      "nombre_producto": "TORO SERVICIOS.",
+      "fecha_vigencia": "2026-08-28T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.344622
+        },
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.217088
+        },
+        {
+          "codigo_mp": "73",
+          "nombre_mp": "PELLET CASCARA DE SOJA",
+          "cantidad": 0.125729
+        },
+        {
+          "codigo_mp": "135",
+          "nombre_mp": "CUARTA DE CEBADA (hp2º)",
+          "cantidad": 0.09928
+        },
+        {
+          "codigo_mp": "8",
+          "nombre_mp": "AFRECHO ARROZ",
+          "cantidad": 0.08355
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.063938
+        },
+        {
+          "codigo_mp": "154",
+          "nombre_mp": "CARBONATO DE CALCIO",
+          "cantidad": 0.028942
+        },
+        {
+          "codigo_mp": "7",
+          "nombre_mp": "CASCARA ARROZ",
+          "cantidad": 0.025957
+        },
+        {
+          "codigo_mp": "11",
+          "nombre_mp": "SAL",
+          "cantidad": 0.007852
+        },
+        {
+          "codigo_mp": "263",
+          "nombre_mp": "SUPLEFEED23",
+          "cantidad": 0.003041
+        }
+      ]
+    },
+    {
+      "producto_id": "03-024",
+      "nombre_producto": "VACA LECHERA 16..... .",
+      "fecha_vigencia": "2026-08-19T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.486084
+        },
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.274186
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.09087
+        },
+        {
+          "codigo_mp": "7",
+          "nombre_mp": "CASCARA ARROZ",
+          "cantidad": 0.054206
+        },
+        {
+          "codigo_mp": "135",
+          "nombre_mp": "CUARTA DE CEBADA (hp2º)",
+          "cantidad": 0.052235
+        },
+        {
+          "codigo_mp": "47",
+          "nombre_mp": "CONCHILLA",
+          "cantidad": 0.023122
+        },
+        {
+          "codigo_mp": "11",
+          "nombre_mp": "SAL",
+          "cantidad": 0.008831
+        },
+        {
+          "codigo_mp": "281",
+          "nombre_mp": "NITROPEC",
+          "cantidad": 0.008151
+        },
+        {
+          "codigo_mp": "263",
+          "nombre_mp": "SUPLEFEED23",
+          "cantidad": 0.002316
+        }
+      ]
+    },
+    {
+      "producto_id": "05-113",
+      "nombre_producto": "RECRIA 16  AL 15%  A.A....",
+      "fecha_vigencia": "2026-08-31T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.301044
+        },
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.291298
+        },
+        {
+          "codigo_mp": "137",
+          "nombre_mp": "AFRECHILLO DE TRIGO",
+          "cantidad": 0.116795
+        },
+        {
+          "codigo_mp": "73",
+          "nombre_mp": "PELLET CASCARA DE SOJA",
+          "cantidad": 0.071068
+        },
+        {
+          "codigo_mp": "8",
+          "nombre_mp": "AFRECHO ARROZ",
+          "cantidad": 0.058813
+        },
+        {
+          "codigo_mp": "7",
+          "nombre_mp": "CASCARA ARROZ",
+          "cantidad": 0.041292
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.031354
+        },
+        {
+          "codigo_mp": "84",
+          "nombre_mp": "BENTONITA",
+          "cantidad": 0.030907
+        },
+        {
+          "codigo_mp": "154",
+          "nombre_mp": "CARBONATO DE CALCIO",
+          "cantidad": 0.022895
+        },
+        {
+          "codigo_mp": "11",
+          "nombre_mp": "SAL",
+          "cantidad": 0.016568
+        },
+        {
+          "codigo_mp": "281",
+          "nombre_mp": "NITROPEC",
+          "cantidad": 0.008006
+        },
+        {
+          "codigo_mp": "10",
+          "nombre_mp": "UREA",
+          "cantidad": 0.006994
+        },
+        {
+          "codigo_mp": "263",
+          "nombre_mp": "SUPLEFEED23",
+          "cantidad": 0.002967
+        }
+      ]
+    },
+    {
+      "producto_id": "05-PAR",
+      "nombre_producto": "REPROCESO",
+      "fecha_vigencia": "2026-08-13T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "34",
+          "nombre_mp": "REPROCESO",
+          "cantidad": 1.0
+        }
+      ]
+    },
+    {
+      "producto_id": "07-050",
+      "nombre_producto": "DESTETE PRECOZ MELAZA  12% A.A..",
+      "fecha_vigencia": "2026-08-25T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.441836
+        },
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.24532
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.165211
+        },
+        {
+          "codigo_mp": "8",
+          "nombre_mp": "AFRECHO ARROZ",
+          "cantidad": 0.063182
+        },
+        {
+          "codigo_mp": "7",
+          "nombre_mp": "CASCARA ARROZ",
+          "cantidad": 0.050627
+        },
+        {
+          "codigo_mp": "154",
+          "nombre_mp": "CARBONATO DE CALCIO",
+          "cantidad": 0.014331
+        },
+        {
+          "codigo_mp": "121",
+          "nombre_mp": "BIONUCLEO BOVINO 1%",
+          "cantidad": 0.010028
+        },
+        {
+          "codigo_mp": "11",
+          "nombre_mp": "SAL",
+          "cantidad": 0.006079
+        },
+        {
+          "codigo_mp": "10",
+          "nombre_mp": "UREA",
+          "cantidad": 0.003088
+        },
+        {
+          "codigo_mp": "265",
+          "nombre_mp": "NUTRAGEN",
+          "cantidad": 0.000298
+        }
+      ]
+    },
+    {
+      "producto_id": "08-032",
+      "nombre_producto": "INICIADOR MELAZA (10%A.A.)",
+      "fecha_vigencia": "2026-08-19T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.421051
+        },
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.255962
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.130281
+        },
+        {
+          "codigo_mp": "8",
+          "nombre_mp": "AFRECHO ARROZ",
+          "cantidad": 0.097823
+        },
+        {
+          "codigo_mp": "7",
+          "nombre_mp": "CASCARA ARROZ",
+          "cantidad": 0.072351
+        },
+        {
+          "codigo_mp": "154",
+          "nombre_mp": "CARBONATO DE CALCIO",
+          "cantidad": 0.01002
+        },
+        {
+          "codigo_mp": "11",
+          "nombre_mp": "SAL",
+          "cantidad": 0.004799
+        },
+        {
+          "codigo_mp": "10",
+          "nombre_mp": "UREA",
+          "cantidad": 0.004786
+        },
+        {
+          "codigo_mp": "263",
+          "nombre_mp": "SUPLEFEED23",
+          "cantidad": 0.002928
+        }
+      ]
+    },
+    {
+      "producto_id": "09-141",
+      "nombre_producto": "CRE. MELAZA 10% A.A. (Los Roanos)",
+      "fecha_vigencia": "2026-08-25T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.403362
+        },
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.299642
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.060817
+        },
+        {
+          "codigo_mp": "8",
+          "nombre_mp": "AFRECHO ARROZ",
+          "cantidad": 0.060447
+        },
+        {
+          "codigo_mp": "7",
+          "nombre_mp": "CASCARA ARROZ",
+          "cantidad": 0.050857
+        },
+        {
+          "codigo_mp": "73",
+          "nombre_mp": "PELLET CASCARA DE SOJA",
+          "cantidad": 0.050419
+        },
+        {
+          "codigo_mp": "84",
+          "nombre_mp": "BENTONITA",
+          "cantidad": 0.030005
+        },
+        {
+          "codigo_mp": "11",
+          "nombre_mp": "SAL",
+          "cantidad": 0.016022
+        },
+        {
+          "codigo_mp": "154",
+          "nombre_mp": "CARBONATO DE CALCIO",
+          "cantidad": 0.013157
+        },
+        {
+          "codigo_mp": "10",
+          "nombre_mp": "UREA",
+          "cantidad": 0.006207
+        },
+        {
+          "codigo_mp": "281",
+          "nombre_mp": "NITROPEC",
+          "cantidad": 0.005991
+        },
+        {
+          "codigo_mp": "263",
+          "nombre_mp": "SUPLEFEED23",
+          "cantidad": 0.003072
+        }
+      ]
+    },
+    {
+      "producto_id": "09-142",
+      "nombre_producto": "CREC. MELAZA 12 % A.A...",
+      "fecha_vigencia": "2026-08-28T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.397456
+        },
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.318706
+        },
+        {
+          "codigo_mp": "73",
+          "nombre_mp": "PELLET CASCARA DE SOJA",
+          "cantidad": 0.067134
+        },
+        {
+          "codigo_mp": "8",
+          "nombre_mp": "AFRECHO ARROZ",
+          "cantidad": 0.058428
+        },
+        {
+          "codigo_mp": "7",
+          "nombre_mp": "CASCARA ARROZ",
+          "cantidad": 0.040547
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.030592
+        },
+        {
+          "codigo_mp": "84",
+          "nombre_mp": "BENTONITA",
+          "cantidad": 0.029755
+        },
+        {
+          "codigo_mp": "154",
+          "nombre_mp": "CARBONATO DE CALCIO",
+          "cantidad": 0.02345
+        },
+        {
+          "codigo_mp": "11",
+          "nombre_mp": "SAL",
+          "cantidad": 0.016091
+        },
+        {
+          "codigo_mp": "281",
+          "nombre_mp": "NITROPEC",
+          "cantidad": 0.007946
+        },
+        {
+          "codigo_mp": "10",
+          "nombre_mp": "UREA",
+          "cantidad": 0.006927
+        },
+        {
+          "codigo_mp": "263",
+          "nombre_mp": "SUPLEFEED23",
+          "cantidad": 0.002969
+        }
+      ]
+    },
+    {
+      "producto_id": "10-031",
+      "nombre_producto": "TER MELAZA 12.8%AA...",
+      "fecha_vigencia": "2026-08-31T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.385958
+        },
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.268452
+        },
+        {
+          "codigo_mp": "135",
+          "nombre_mp": "CUARTA DE CEBADA (hp2º)",
+          "cantidad": 0.149467
+        },
+        {
+          "codigo_mp": "8",
+          "nombre_mp": "AFRECHO ARROZ",
+          "cantidad": 0.079755
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.031834
+        },
+        {
+          "codigo_mp": "154",
+          "nombre_mp": "CARBONATO DE CALCIO",
+          "cantidad": 0.021927
+        },
+        {
+          "codigo_mp": "7",
+          "nombre_mp": "CASCARA ARROZ",
+          "cantidad": 0.020973
+        },
+        {
+          "codigo_mp": "84",
+          "nombre_mp": "BENTONITA",
+          "cantidad": 0.020188
+        },
+        {
+          "codigo_mp": "11",
+          "nombre_mp": "SAL",
+          "cantidad": 0.013371
+        },
+        {
+          "codigo_mp": "10",
+          "nombre_mp": "UREA",
+          "cantidad": 0.004949
+        },
+        {
+          "codigo_mp": "263",
+          "nombre_mp": "SUPLEFEED23",
+          "cantidad": 0.003126
+        }
+      ]
+    },
+    {
+      "producto_id": "16-015",
+      "nombre_producto": "MANTENIMIENTO MELAZA....",
+      "fecha_vigencia": "2026-08-10T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.5012
+        },
+        {
+          "codigo_mp": "135",
+          "nombre_mp": "CUARTA DE CEBADA (hp2º)",
+          "cantidad": 0.15223
+        },
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.150906
+        },
+        {
+          "codigo_mp": "8",
+          "nombre_mp": "AFRECHO ARROZ",
+          "cantidad": 0.11955
+        },
+        {
+          "codigo_mp": "7",
+          "nombre_mp": "CASCARA ARROZ",
+          "cantidad": 0.050302
+        },
+        {
+          "codigo_mp": "11",
+          "nombre_mp": "SAL",
+          "cantidad": 0.011566
+        },
+        {
+          "codigo_mp": "154",
+          "nombre_mp": "CARBONATO DE CALCIO",
+          "cantidad": 0.010375
+        },
+        {
+          "codigo_mp": "263",
+          "nombre_mp": "SUPLEFEED23",
+          "cantidad": 0.002035
+        },
+        {
+          "codigo_mp": "10",
+          "nombre_mp": "UREA",
+          "cantidad": 0.001837
+        }
+      ]
+    },
+    {
+      "producto_id": "19-032",
+      "nombre_producto": "ENGORDE BOVINO 12% A.A. .",
+      "fecha_vigencia": "2026-08-28T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.377074
+        },
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.29841
+        },
+        {
+          "codigo_mp": "135",
+          "nombre_mp": "CUARTA DE CEBADA (hp2º)",
+          "cantidad": 0.140458
+        },
+        {
+          "codigo_mp": "8",
+          "nombre_mp": "AFRECHO ARROZ",
+          "cantidad": 0.08241
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.031307
+        },
+        {
+          "codigo_mp": "7",
+          "nombre_mp": "CASCARA ARROZ",
+          "cantidad": 0.021815
+        },
+        {
+          "codigo_mp": "11",
+          "nombre_mp": "SAL",
+          "cantidad": 0.015853
+        },
+        {
+          "codigo_mp": "84",
+          "nombre_mp": "BENTONITA",
+          "cantidad": 0.01516
+        },
+        {
+          "codigo_mp": "154",
+          "nombre_mp": "CARBONATO DE CALCIO",
+          "cantidad": 0.009437
+        },
+        {
+          "codigo_mp": "10",
+          "nombre_mp": "UREA",
+          "cantidad": 0.003004
+        },
+        {
+          "codigo_mp": "281",
+          "nombre_mp": "NITROPEC",
+          "cantidad": 0.00297
+        },
+        {
+          "codigo_mp": "263",
+          "nombre_mp": "SUPLEFEED23",
+          "cantidad": 0.0021
+        }
+      ]
+    },
+    {
+      "producto_id": "20-011",
+      "nombre_producto": "SUPLEMENTO 25/35   16% A.A.",
+      "fecha_vigencia": "2026-08-26T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.427143
+        },
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.237338
+        },
+        {
+          "codigo_mp": "7",
+          "nombre_mp": "CASCARA ARROZ",
+          "cantidad": 0.123422
+        },
+        {
+          "codigo_mp": "135",
+          "nombre_mp": "CUARTA DE CEBADA (hp2º)",
+          "cantidad": 0.110474
+        },
+        {
+          "codigo_mp": "137",
+          "nombre_mp": "AFRECHILLO DE TRIGO",
+          "cantidad": 0.101623
+        }
+      ]
+    },
+    {
+      "producto_id": "22-036",
+      "nombre_producto": "FIBROMIXER 300 16% AA Girasol",
+      "fecha_vigencia": "2026-08-28T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.396852
+        },
+        {
+          "codigo_mp": "137",
+          "nombre_mp": "AFRECHILLO DE TRIGO",
+          "cantidad": 0.14998
+        },
+        {
+          "codigo_mp": "7",
+          "nombre_mp": "CASCARA ARROZ",
+          "cantidad": 0.100212
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.099352
+        },
+        {
+          "codigo_mp": "8",
+          "nombre_mp": "AFRECHO ARROZ",
+          "cantidad": 0.079049
+        },
+        {
+          "codigo_mp": "73",
+          "nombre_mp": "PELLET CASCARA DE SOJA",
+          "cantidad": 0.052583
+        },
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.050646
+        },
+        {
+          "codigo_mp": "121",
+          "nombre_mp": "BIONUCLEO BOVINO 1%",
+          "cantidad": 0.024209
+        },
+        {
+          "codigo_mp": "154",
+          "nombre_mp": "CARBONATO DE CALCIO",
+          "cantidad": 0.021125
+        },
+        {
+          "codigo_mp": "11",
+          "nombre_mp": "SAL",
+          "cantidad": 0.014009
+        },
+        {
+          "codigo_mp": "10",
+          "nombre_mp": "UREA",
+          "cantidad": 0.011983
+        }
+      ]
+    },
+    {
+      "producto_id": "25-031",
+      "nombre_producto": "FIBROMIXER PASTOREO 16%A.A. (P Girasol Común)",
+      "fecha_vigencia": "2026-08-27T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.448753
+        },
+        {
+          "codigo_mp": "8",
+          "nombre_mp": "AFRECHO ARROZ",
+          "cantidad": 0.121597
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.119826
+        },
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.112734
+        },
+        {
+          "codigo_mp": "7",
+          "nombre_mp": "CASCARA ARROZ",
+          "cantidad": 0.094624
+        },
+        {
+          "codigo_mp": "121",
+          "nombre_mp": "BIONUCLEO BOVINO 1%",
+          "cantidad": 0.030841
+        },
+        {
+          "codigo_mp": "11",
+          "nombre_mp": "SAL",
+          "cantidad": 0.029475
+        },
+        {
+          "codigo_mp": "154",
+          "nombre_mp": "CARBONATO DE CALCIO",
+          "cantidad": 0.024031
+        },
+        {
+          "codigo_mp": "10",
+          "nombre_mp": "UREA",
+          "cantidad": 0.018118
+        }
+      ]
+    },
+    {
+      "producto_id": "26-026",
+      "nombre_producto": "FIBROMIXER RECRIA 16%A.A.( Girasol Comun)",
+      "fecha_vigencia": "2026-08-20T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.390386
+        },
+        {
+          "codigo_mp": "137",
+          "nombre_mp": "AFRECHILLO DE TRIGO",
+          "cantidad": 0.15084
+        },
+        {
+          "codigo_mp": "7",
+          "nombre_mp": "CASCARA ARROZ",
+          "cantidad": 0.149681
+        },
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.081666
+        },
+        {
+          "codigo_mp": "8",
+          "nombre_mp": "AFRECHO ARROZ",
+          "cantidad": 0.071684
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.050463
+        },
+        {
+          "codigo_mp": "154",
+          "nombre_mp": "CARBONATO DE CALCIO",
+          "cantidad": 0.031812
+        },
+        {
+          "codigo_mp": "121",
+          "nombre_mp": "BIONUCLEO BOVINO 1%",
+          "cantidad": 0.023915
+        },
+        {
+          "codigo_mp": "11",
+          "nombre_mp": "SAL",
+          "cantidad": 0.022425
+        },
+        {
+          "codigo_mp": "10",
+          "nombre_mp": "UREA",
+          "cantidad": 0.01924
+        },
+        {
+          "codigo_mp": "281",
+          "nombre_mp": "NITROPEC",
+          "cantidad": 0.007887
+        }
+      ]
+    },
+    {
+      "producto_id": "40-017",
+      "nombre_producto": "EQUINO SERVICIO....",
+      "fecha_vigencia": "2026-08-21T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.408149
+        },
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.291787
+        },
+        {
+          "codigo_mp": "7",
+          "nombre_mp": "CASCARA ARROZ",
+          "cantidad": 0.061833
+        },
+        {
+          "codigo_mp": "71",
+          "nombre_mp": "TRIGO (para balanceado)",
+          "cantidad": 0.052632
+        },
+        {
+          "codigo_mp": "135",
+          "nombre_mp": "CUARTA DE CEBADA (hp2º)",
+          "cantidad": 0.052478
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.050832
+        },
+        {
+          "codigo_mp": "8",
+          "nombre_mp": "AFRECHO ARROZ",
+          "cantidad": 0.049322
+        },
+        {
+          "codigo_mp": "154",
+          "nombre_mp": "CARBONATO DE CALCIO",
+          "cantidad": 0.023111
+        },
+        {
+          "codigo_mp": "11",
+          "nombre_mp": "SAL",
+          "cantidad": 0.005652
+        },
+        {
+          "codigo_mp": "205",
+          "nombre_mp": "APSAMIX PX EQUINO",
+          "cantidad": 0.003911
+        },
+        {
+          "codigo_mp": "265",
+          "nombre_mp": "NUTRAGEN",
+          "cantidad": 0.000293
+        }
+      ]
+    },
+    {
+      "producto_id": "41-001",
+      "nombre_producto": "EQUINO DEPORTIVO (4.5%A.A.)*",
+      "fecha_vigencia": "2026-08-19T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.483246
+        },
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.255715
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.108917
+        },
+        {
+          "codigo_mp": "8",
+          "nombre_mp": "AFRECHO ARROZ",
+          "cantidad": 0.069972
+        },
+        {
+          "codigo_mp": "7",
+          "nombre_mp": "CASCARA ARROZ",
+          "cantidad": 0.045913
+        },
+        {
+          "codigo_mp": "154",
+          "nombre_mp": "CARBONATO DE CALCIO",
+          "cantidad": 0.026479
+        },
+        {
+          "codigo_mp": "205",
+          "nombre_mp": "APSAMIX PX EQUINO",
+          "cantidad": 0.004854
+        },
+        {
+          "codigo_mp": "11",
+          "nombre_mp": "SAL",
+          "cantidad": 0.004606
+        },
+        {
+          "codigo_mp": "265",
+          "nombre_mp": "NUTRAGEN",
+          "cantidad": 0.000298
+        }
+      ]
+    },
+    {
+      "producto_id": "42-002",
+      "nombre_producto": "EQUINO POTRILLO AP EXPELLER SOJA",
+      "fecha_vigencia": "2026-08-21T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.378403
+        },
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.310831
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.238315
+        },
+        {
+          "codigo_mp": "7",
+          "nombre_mp": "CASCARA ARROZ",
+          "cantidad": 0.030984
+        },
+        {
+          "codigo_mp": "154",
+          "nombre_mp": "CARBONATO DE CALCIO",
+          "cantidad": 0.026897
+        },
+        {
+          "codigo_mp": "11",
+          "nombre_mp": "SAL",
+          "cantidad": 0.008339
+        },
+        {
+          "codigo_mp": "205",
+          "nombre_mp": "APSAMIX PX EQUINO",
+          "cantidad": 0.005933
+        },
+        {
+          "codigo_mp": "265",
+          "nombre_mp": "NUTRAGEN",
+          "cantidad": 0.000297
+        }
+      ]
+    },
+    {
+      "producto_id": "80-002",
+      "nombre_producto": "PONEDORAS AP CASERA/ JAULA",
+      "fecha_vigencia": "2026-08-13T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.490351
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.29123
+        },
+        {
+          "codigo_mp": "70",
+          "nombre_mp": "CONCHILLA (BOLSA)",
+          "cantidad": 0.096766
+        },
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.062212
+        },
+        {
+          "codigo_mp": "8",
+          "nombre_mp": "AFRECHO ARROZ",
+          "cantidad": 0.04064
+        },
+        {
+          "codigo_mp": "303",
+          "nombre_mp": "PREMIX PONEDORA F1 C/F (VETIFARMA)",
+          "cantidad": 0.009804
+        },
+        {
+          "codigo_mp": "311",
+          "nombre_mp": "FOSFATO MONOCÁLCICO",
+          "cantidad": 0.008997
+        }
+      ]
+    },
+    {
+      "producto_id": "82-001",
+      "nombre_producto": "PARRILLERO AP INICIADOR/ RECRIA",
+      "fecha_vigencia": "2026-08-13T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.501677
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.458053
+        },
+        {
+          "codigo_mp": "70",
+          "nombre_mp": "CONCHILLA (BOLSA)",
+          "cantidad": 0.016359
+        },
+        {
+          "codigo_mp": "311",
+          "nombre_mp": "FOSFATO MONOCÁLCICO",
+          "cantidad": 0.012393
+        },
+        {
+          "codigo_mp": "312",
+          "nombre_mp": "PREMIX PARRILLERO (VETIFARMA)",
+          "cantidad": 0.009832
+        },
+        {
+          "codigo_mp": "11",
+          "nombre_mp": "SAL",
+          "cantidad": 0.001685
+        }
+      ]
+    },
+    {
+      "producto_id": "99-008",
+      "nombre_producto": "CREC. MELAZA PARAGUAY",
+      "fecha_vigencia": "2026-08-28T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.355365
+        },
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.28553
+        },
+        {
+          "codigo_mp": "71",
+          "nombre_mp": "TRIGO (para balanceado)",
+          "cantidad": 0.099673
+        },
+        {
+          "codigo_mp": "34",
+          "nombre_mp": "REPROCESO",
+          "cantidad": 0.051557
+        },
+        {
+          "codigo_mp": "7",
+          "nombre_mp": "CASCARA ARROZ",
+          "cantidad": 0.049713
+        },
+        {
+          "codigo_mp": "8",
+          "nombre_mp": "AFRECHO ARROZ",
+          "cantidad": 0.049264
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.030975
+        },
+        {
+          "codigo_mp": "84",
+          "nombre_mp": "BENTONITA",
+          "cantidad": 0.029427
+        },
+        {
+          "codigo_mp": "11",
+          "nombre_mp": "SAL",
+          "cantidad": 0.016343
+        },
+        {
+          "codigo_mp": "154",
+          "nombre_mp": "CARBONATO DE CALCIO",
+          "cantidad": 0.012964
+        },
+        {
+          "codigo_mp": "10",
+          "nombre_mp": "UREA",
+          "cantidad": 0.007999
+        },
+        {
+          "codigo_mp": "281",
+          "nombre_mp": "NITROPEC",
+          "cantidad": 0.007985
+        },
+        {
+          "codigo_mp": "263",
+          "nombre_mp": "SUPLEFEED23",
+          "cantidad": 0.003206
+        }
+      ]
+    },
+    {
+      "producto_id": "99-010",
+      "nombre_producto": "TERMINADOR MELAZA PARAGUAY",
+      "fecha_vigencia": "2026-08-28T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.353892
+        },
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.234362
+        },
+        {
+          "codigo_mp": "137",
+          "nombre_mp": "AFRECHILLO DE TRIGO",
+          "cantidad": 0.199388
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.070747
+        },
+        {
+          "codigo_mp": "7",
+          "nombre_mp": "CASCARA ARROZ",
+          "cantidad": 0.050662
+        },
+        {
+          "codigo_mp": "8",
+          "nombre_mp": "AFRECHO ARROZ",
+          "cantidad": 0.050311
+        },
+        {
+          "codigo_mp": "11",
+          "nombre_mp": "SAL",
+          "cantidad": 0.016151
+        },
+        {
+          "codigo_mp": "154",
+          "nombre_mp": "CARBONATO DE CALCIO",
+          "cantidad": 0.012247
+        },
+        {
+          "codigo_mp": "10",
+          "nombre_mp": "UREA",
+          "cantidad": 0.008167
+        },
+        {
+          "codigo_mp": "263",
+          "nombre_mp": "SUPLEFEED23",
+          "cantidad": 0.004073
+        }
+      ]
+    },
+    {
+      "producto_id": "CP-001",
+      "nombre_producto": "CRECIMIENTO POWER",
+      "fecha_vigencia": "2026-08-24T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.474983
+        },
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.209904
+        },
+        {
+          "codigo_mp": "240",
+          "nombre_mp": "PELLET DE ALFALFA",
+          "cantidad": 0.134219
+        },
+        {
+          "codigo_mp": "8",
+          "nombre_mp": "AFRECHO ARROZ",
+          "cantidad": 0.087419
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.050498
+        },
+        {
+          "codigo_mp": "11",
+          "nombre_mp": "SAL",
+          "cantidad": 0.015986
+        },
+        {
+          "codigo_mp": "154",
+          "nombre_mp": "CARBONATO DE CALCIO",
+          "cantidad": 0.014085
+        },
+        {
+          "codigo_mp": "10",
+          "nombre_mp": "UREA",
+          "cantidad": 0.008459
+        },
+        {
+          "codigo_mp": "263",
+          "nombre_mp": "SUPLEFEED23",
+          "cantidad": 0.004049
+        },
+        {
+          "codigo_mp": "265",
+          "nombre_mp": "NUTRAGEN",
+          "cantidad": 0.000298
+        },
+        {
+          "codigo_mp": "172",
+          "nombre_mp": "STAFAC500",
+          "cantidad": 9.9e-05
+        }
+      ]
+    },
+    {
+      "producto_id": "DPO1",
+      "nombre_producto": "DESARROLLO PORCINO AP expeller",
+      "fecha_vigencia": "2026-08-12T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.659051
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.31057
+        },
+        {
+          "codigo_mp": "190",
+          "nombre_mp": "MAXIMIX CERDOS CREC. Y TERM.",
+          "cantidad": 0.030379
+        }
+      ]
+    },
+    {
+      "producto_id": "ES",
+      "nombre_producto": "EXPELER DE SOJA MOLIDO",
+      "fecha_vigencia": "2026-08-27T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 1.0
+        }
+      ]
+    },
+    {
+      "producto_id": "FC426",
+      "nombre_producto": "INICIADOR CERDOS SANCHEZ MAG 100",
+      "fecha_vigencia": "2026-08-31T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.59989
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.299477
+        },
+        {
+          "codigo_mp": "293",
+          "nombre_mp": "MAGNUM 100",
+          "cantidad": 0.100633
+        }
+      ]
+    },
+    {
+      "producto_id": "FC625",
+      "nombre_producto": "DESARROLLO CERDOS SANCHEZ",
+      "fecha_vigencia": "2026-08-30T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.649587
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.32497
+        },
+        {
+          "codigo_mp": "197",
+          "nombre_mp": "tK DESARROLLO 2,5%",
+          "cantidad": 0.025443
+        }
+      ]
+    },
+    {
+      "producto_id": "FC638",
+      "nombre_producto": "RECRIA (Dodorico)",
+      "fecha_vigencia": "2026-08-06T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.547202
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.353515
+        },
+        {
+          "codigo_mp": "214",
+          "nombre_mp": "STARFEED 10",
+          "cantidad": 0.099283
+        }
+      ]
+    },
+    {
+      "producto_id": "FC638 MED",
+      "nombre_producto": "RECRIA (Dodorico) MEDICADO",
+      "fecha_vigencia": "2026-08-06T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.549137
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.351088
+        },
+        {
+          "codigo_mp": "214",
+          "nombre_mp": "STARFEED 10",
+          "cantidad": 0.098525
+        },
+        {
+          "codigo_mp": "138",
+          "nombre_mp": "FLORFENICOL",
+          "cantidad": 0.001
+        },
+        {
+          "codigo_mp": "141",
+          "nombre_mp": "FEMBE 4",
+          "cantidad": 0.00025
+        }
+      ]
+    },
+    {
+      "producto_id": "FC639",
+      "nombre_producto": "DESARROLLO (Dodorico)",
+      "fecha_vigencia": "2026-08-26T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.655485
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.313913
+        },
+        {
+          "codigo_mp": "190",
+          "nombre_mp": "MAXIMIX CERDOS CREC. Y TERM.",
+          "cantidad": 0.030602
+        }
+      ]
+    },
+    {
+      "producto_id": "FC639 MED",
+      "nombre_producto": "DESARROLLO (Dodorico) MEDICADO",
+      "fecha_vigencia": "2026-08-06T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.651437
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.311471
+        },
+        {
+          "codigo_mp": "190",
+          "nombre_mp": "MAXIMIX CERDOS CREC. Y TERM.",
+          "cantidad": 0.035863
+        },
+        {
+          "codigo_mp": "138",
+          "nombre_mp": "FLORFENICOL",
+          "cantidad": 0.000983
+        },
+        {
+          "codigo_mp": "141",
+          "nombre_mp": "FEMBE 4",
+          "cantidad": 0.000246
+        }
+      ]
+    },
+    {
+      "producto_id": "FC713",
+      "nombre_producto": "TERMINACIÓN CERDOS SANCHEZ",
+      "fecha_vigencia": "2026-08-25T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.741738
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.232808
+        },
+        {
+          "codigo_mp": "198",
+          "nombre_mp": "tK TERMINACIÓN 2,5%",
+          "cantidad": 0.025454
+        }
+      ]
+    },
+    {
+      "producto_id": "FC727",
+      "nombre_producto": "TERMINACION 1 (Dodorico)",
+      "fecha_vigencia": "2026-08-26T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.735028
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.239735
+        },
+        {
+          "codigo_mp": "190",
+          "nombre_mp": "MAXIMIX CERDOS CREC. Y TERM.",
+          "cantidad": 0.025237
+        }
+      ]
+    },
+    {
+      "producto_id": "FC820",
+      "nombre_producto": "CERDAS GESTACIÓN (LA MALVINA) MAXIMIX.",
+      "fecha_vigencia": "2026-08-26T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.726705
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.240254
+        },
+        {
+          "codigo_mp": "187",
+          "nombre_mp": "MAXIMIX CERDAS REP PLUS 3.1",
+          "cantidad": 0.033041
+        }
+      ]
+    },
+    {
+      "producto_id": "FC824",
+      "nombre_producto": "CERDAS GESTACION  (Sanchez)",
+      "fecha_vigencia": "2026-08-31T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.771784
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.177759
+        },
+        {
+          "codigo_mp": "248",
+          "nombre_mp": "MAGNUM VITAL GESTACION 5%",
+          "cantidad": 0.049454
+        },
+        {
+          "codigo_mp": "317",
+          "nombre_mp": "SECUESTRANTE SANCHEZ",
+          "cantidad": 0.001003
+        }
+      ]
+    },
+    {
+      "producto_id": "FC916",
+      "nombre_producto": "CERDAS LACTANCIA (Sanchez)",
+      "fecha_vigencia": "2026-08-24T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.607429
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.340704
+        },
+        {
+          "codigo_mp": "219",
+          "nombre_mp": "MAGNUM VITAL LACTANCIA 5%",
+          "cantidad": 0.050871
+        },
+        {
+          "codigo_mp": "317",
+          "nombre_mp": "SECUESTRANTE SANCHEZ",
+          "cantidad": 0.000996
+        }
+      ]
+    },
+    {
+      "producto_id": "FP0012",
+      "nombre_producto": "CABAÑA PRESENTACIÓN (COMAGRO)",
+      "fecha_vigencia": "2026-08-11T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.617685
+        },
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.251071
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.089125
+        },
+        {
+          "codigo_mp": "243",
+          "nombre_mp": "PREMIX PROFEED CABAÑA PRESENTACIÓN",
+          "cantidad": 0.03546
+        },
+        {
+          "codigo_mp": "10",
+          "nombre_mp": "UREA",
+          "cantidad": 0.006659
+        }
+      ]
+    },
+    {
+      "producto_id": "FP0017",
+      "nombre_producto": "DESARROLLO TERNEROS CON SAL SORGO (LA MALVINA)",
+      "fecha_vigencia": "2026-08-31T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.347123
+        },
+        {
+          "codigo_mp": "8",
+          "nombre_mp": "AFRECHO ARROZ",
+          "cantidad": 0.200995
+        },
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.200132
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.171456
+        },
+        {
+          "codigo_mp": "171",
+          "nombre_mp": "PREMIX DESARROLLO PROFEED",
+          "cantidad": 0.050996
+        },
+        {
+          "codigo_mp": "11",
+          "nombre_mp": "SAL",
+          "cantidad": 0.019612
+        },
+        {
+          "codigo_mp": "10",
+          "nombre_mp": "UREA",
+          "cantidad": 0.009686
+        }
+      ]
+    },
+    {
+      "producto_id": "FP0038",
+      "nombre_producto": "FEED LOT M y H DESARR. 16% (La Malvina)",
+      "fecha_vigencia": "2026-08-14T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.49995
+        },
+        {
+          "codigo_mp": "137",
+          "nombre_mp": "AFRECHILLO DE TRIGO",
+          "cantidad": 0.222311
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.118677
+        },
+        {
+          "codigo_mp": "8",
+          "nombre_mp": "AFRECHO ARROZ",
+          "cantidad": 0.093421
+        },
+        {
+          "codigo_mp": "171",
+          "nombre_mp": "PREMIX DESARROLLO PROFEED",
+          "cantidad": 0.054608
+        },
+        {
+          "codigo_mp": "10",
+          "nombre_mp": "UREA",
+          "cantidad": 0.011032
+        }
+      ]
+    },
+    {
+      "producto_id": "FP0039",
+      "nombre_producto": "TERNERO PREMIUM - DEST. DES. 21 (La Malvina)",
+      "fecha_vigencia": "2026-08-31T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.320002
+        },
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.290301
+        },
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.257997
+        },
+        {
+          "codigo_mp": "8",
+          "nombre_mp": "AFRECHO ARROZ",
+          "cantidad": 0.101069
+        },
+        {
+          "codigo_mp": "184",
+          "nombre_mp": "PREMIX TERNERO PROFEED",
+          "cantidad": 0.030631
+        }
+      ]
+    },
+    {
+      "producto_id": "FP0040",
+      "nombre_producto": "FEED LOT M y H DESARROLLO 18% (Comagro)",
+      "fecha_vigencia": "2026-08-11T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.380564
+        },
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.290219
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.151403
+        },
+        {
+          "codigo_mp": "8",
+          "nombre_mp": "AFRECHO ARROZ",
+          "cantidad": 0.117344
+        },
+        {
+          "codigo_mp": "171",
+          "nombre_mp": "PREMIX DESARROLLO PROFEED",
+          "cantidad": 0.050044
+        },
+        {
+          "codigo_mp": "10",
+          "nombre_mp": "UREA",
+          "cantidad": 0.010425
+        }
+      ]
+    },
+    {
+      "producto_id": "FP0041",
+      "nombre_producto": "TERNERO DESTETE  COMAGRO",
+      "fecha_vigencia": "2026-08-31T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.343744
+        },
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.340799
+        },
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.280331
+        },
+        {
+          "codigo_mp": "184",
+          "nombre_mp": "PREMIX TERNERO PROFEED",
+          "cantidad": 0.035127
+        }
+      ]
+    },
+    {
+      "producto_id": "FP0042",
+      "nombre_producto": "CABAÑA PRESENTACIÓN (LA MALVINA)",
+      "fecha_vigencia": "2026-08-20T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.620449
+        },
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.245885
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.091771
+        },
+        {
+          "codigo_mp": "243",
+          "nombre_mp": "PREMIX PROFEED CABAÑA PRESENTACIÓN",
+          "cantidad": 0.037257
+        },
+        {
+          "codigo_mp": "10",
+          "nombre_mp": "UREA",
+          "cantidad": 0.004638
+        }
+      ]
+    },
+    {
+      "producto_id": "HST-001",
+      "nombre_producto": "HAPPY STARTER",
+      "fecha_vigencia": "2026-08-18T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.309837
+        },
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.219092
+        },
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.195528
+        },
+        {
+          "codigo_mp": "240",
+          "nombre_mp": "PELLET DE ALFALFA",
+          "cantidad": 0.195528
+        },
+        {
+          "codigo_mp": "8",
+          "nombre_mp": "AFRECHO ARROZ",
+          "cantidad": 0.050135
+        },
+        {
+          "codigo_mp": "154",
+          "nombre_mp": "CARBONATO DE CALCIO",
+          "cantidad": 0.014188
+        },
+        {
+          "codigo_mp": "121",
+          "nombre_mp": "BIONUCLEO BOVINO 1%",
+          "cantidad": 0.009877
+        },
+        {
+          "codigo_mp": "11",
+          "nombre_mp": "SAL",
+          "cantidad": 0.005515
+        },
+        {
+          "codigo_mp": "265",
+          "nombre_mp": "NUTRAGEN",
+          "cantidad": 0.000301
+        }
+      ]
+    },
+    {
+      "producto_id": "IPQ",
+      "nombre_producto": "INICIADOR QUEBRADO",
+      "fecha_vigencia": "2026-08-10T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "320",
+          "nombre_mp": "INICIADOR PARRILLERO PELLET",
+          "cantidad": 1.0
+        }
+      ]
+    },
+    {
+      "producto_id": "LCES",
+      "nombre_producto": "LIMPIEZA CIRCUITO EXPELLER SOJA",
+      "fecha_vigencia": "2026-08-27T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 1.0
+        }
+      ]
+    },
+    {
+      "producto_id": "LCPA",
+      "nombre_producto": "LIMPIEZA CIRCUITO PELLETS ALFALFA",
+      "fecha_vigencia": "2026-08-08T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "240",
+          "nombre_mp": "PELLET DE ALFALFA",
+          "cantidad": 1.0
+        }
+      ]
+    },
+    {
+      "producto_id": "P.A. MEL",
+      "nombre_producto": "PELLETS DE ALFALFA MELAZADO",
+      "fecha_vigencia": "2026-08-14T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "240",
+          "nombre_mp": "PELLET DE ALFALFA",
+          "cantidad": 0.850983
+        },
+        {
+          "codigo_mp": "8",
+          "nombre_mp": "AFRECHO ARROZ",
+          "cantidad": 0.149017
+        }
+      ]
+    },
+    {
+      "producto_id": "PNQ",
+      "nombre_producto": "PONEDORA QUEBRADO",
+      "fecha_vigencia": "2026-08-10T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "319",
+          "nombre_mp": "PONEDORA CASERA/JAULA PELLET",
+          "cantidad": 1.0
+        }
+      ]
+    },
+    {
+      "producto_id": "R14-001",
+      "nombre_producto": "RECRIA 14 CON MAIZ (quebradora)",
+      "fecha_vigencia": "2026-08-29T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.433886
+        },
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.249898
+        },
+        {
+          "codigo_mp": "8",
+          "nombre_mp": "AFRECHO ARROZ",
+          "cantidad": 0.199501
+        },
+        {
+          "codigo_mp": "240",
+          "nombre_mp": "PELLET DE ALFALFA",
+          "cantidad": 0.075977
+        },
+        {
+          "codigo_mp": "11",
+          "nombre_mp": "SAL",
+          "cantidad": 0.020141
+        },
+        {
+          "codigo_mp": "154",
+          "nombre_mp": "CARBONATO DE CALCIO",
+          "cantidad": 0.01561
+        },
+        {
+          "codigo_mp": "281",
+          "nombre_mp": "NITROPEC",
+          "cantidad": 0.004986
+        }
+      ]
+    },
+    {
+      "producto_id": "TPO3",
+      "nombre_producto": "TERMINADOR PORCINO AP.",
+      "fecha_vigencia": "2026-08-19T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.656253
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.214166
+        },
+        {
+          "codigo_mp": "8",
+          "nombre_mp": "AFRECHO ARROZ",
+          "cantidad": 0.10561
+        },
+        {
+          "codigo_mp": "190",
+          "nombre_mp": "MAXIMIX CERDOS CREC. Y TERM.",
+          "cantidad": 0.023971
+        }
+      ]
+    },
+    {
+      "producto_id": "TPW-001",
+      "nombre_producto": "TORO POWER",
+      "fecha_vigencia": "2026-08-24T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.495957
+        },
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.264311
+        },
+        {
+          "codigo_mp": "240",
+          "nombre_mp": "PELLET DE ALFALFA",
+          "cantidad": 0.10541
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.069805
+        },
+        {
+          "codigo_mp": "154",
+          "nombre_mp": "CARBONATO DE CALCIO",
+          "cantidad": 0.028126
+        },
+        {
+          "codigo_mp": "7",
+          "nombre_mp": "CASCARA ARROZ",
+          "cantidad": 0.024559
+        },
+        {
+          "codigo_mp": "11",
+          "nombre_mp": "SAL",
+          "cantidad": 0.007953
+        },
+        {
+          "codigo_mp": "263",
+          "nombre_mp": "SUPLEFEED23",
+          "cantidad": 0.00388
+        }
+      ]
+    },
+    {
+      "producto_id": "TPW3",
+      "nombre_producto": "TORO POWER PARAGUAY",
+      "fecha_vigencia": "2026-08-08T00:00:00Z",
+      "items": [
+        {
+          "codigo_mp": "2",
+          "nombre_mp": "PELLET AFRECHILLO DE TRIGO",
+          "cantidad": 0.294759
+        },
+        {
+          "codigo_mp": "5",
+          "nombre_mp": "MAIZ",
+          "cantidad": 0.261919
+        },
+        {
+          "codigo_mp": "137",
+          "nombre_mp": "AFRECHILLO DE TRIGO",
+          "cantidad": 0.199226
+        },
+        {
+          "codigo_mp": "240",
+          "nombre_mp": "PELLET DE ALFALFA",
+          "cantidad": 0.108271
+        },
+        {
+          "codigo_mp": "19",
+          "nombre_mp": "EXP SOJA",
+          "cantidad": 0.069858
+        },
+        {
+          "codigo_mp": "154",
+          "nombre_mp": "CARBONATO DE CALCIO",
+          "cantidad": 0.0287
+        },
+        {
+          "codigo_mp": "7",
+          "nombre_mp": "CASCARA ARROZ",
+          "cantidad": 0.025077
+        },
+        {
+          "codigo_mp": "11",
+          "nombre_mp": "SAL",
+          "cantidad": 0.008061
+        },
+        {
+          "codigo_mp": "205",
+          "nombre_mp": "APSAMIX PX EQUINO",
+          "cantidad": 0.00413
+        }
+      ]
+    }
+  ]
+}
