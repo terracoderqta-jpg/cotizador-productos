@@ -1,0 +1,11 @@
+node_modules/
+npm-debug.log
+.git/
+.gitignore
+.env
+pgdata/
+pgdata.log
+server.out.log
+server.err.log
+*.log
+.idea/
